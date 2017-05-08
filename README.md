@@ -26,7 +26,10 @@ Dealing with distribution is a must at Fastly, where our applications are deploy
 * [Jeff Hodges's Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods)
 * [Distributed Computing: Principles, Algorithms, and Systems
 Textbook by Ajay D. Kshemkalyani and Mukesh Singhal](https://www.cs.uic.edu/~ajayk/DCS-Book)
-* 
+* [Harvest, Yield, and Scalable Tolerant Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.3690&rep=rep1&type=pdf)
+* [You can't sacrifice partition tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/)
+* ["Building Scalable Stateful Services" by Caitie McCaffrey](https://www.youtube.com/watch?v=H0i_bXKwujQ)
+
 
 ### Thank you!
 Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: Tyler McMullen, Jed Denlea, Adam Thomason, Ian Fung, Elaine Greenberg, and Greg Bako.
