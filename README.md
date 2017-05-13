@@ -1,4 +1,4 @@
-# The Trouble with Distribution
+# The Trouble with Distribution (and pugs)
 
 Accompanying repository for The trouble with distribution talk given at [J on the Beach]() 2017. Feel free to open any issues for questions and/or to say hi :)
 
@@ -35,4 +35,4 @@ Textbook by Ajay D. Kshemkalyani and Mukesh Singhal](https://www.cs.uic.edu/~aja
 
 
 ### Thank you!
-Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: Tyler McMullen, Jed Denlea, Adam Thomason, Ian Fung, Elaine Greenberg, and Greg Bako.
+Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: Tyler McMullen, Jed Denlea, Adam Thomason, Ian Fung, Joao Taveira, Ezekiel Templin, Ashok Lalwani, Camille Fournier, Caitie McCaffrey, Elaine Greenberg, and Greg Bako.
