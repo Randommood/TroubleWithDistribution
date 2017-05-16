@@ -33,6 +33,7 @@ Textbook by Ajay D. Kshemkalyani and Mukesh Singhal](https://www.cs.uic.edu/~aja
 * [Fastly Imageopto Demo](https://www.fastly.com/io/)
 * [facepug.io](http://http://facepug.io/)
 
+* [Pug reverse sneezing](https://www.youtube.com/watch?v=nIePT1-6HWk)
 
 ### Thank you!
-Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: Tyler McMullen, Jed Denlea, Adam Thomason, Ian Fung, Joao Taveira, Ezekiel Templin, Ashok Lalwani, Camille Fournier, Caitie McCaffrey, Elaine Greenberg, and Greg Bako.
+Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: Tyler McMullen, Jed Denlea, Adam Thomason, Ian Fung, Joao Taveira, Ezekiel Templin, Ashok Lalwani, Kyle Kingsbury, Camille Fournier, Caitie McCaffrey, Elaine Greenberg, and Greg Bako.

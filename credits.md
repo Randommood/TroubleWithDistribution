@@ -7,5 +7,11 @@
 * https://www.flickr.com/photos/51408304@N02/8338805305
 * https://www.flickr.com/photos/51408304@N02/8409924976
 * https://www.flickr.com/photos/monicaclick/29312974224
-*
+* https://www.flickr.com/photos/geehanski/13979007204
+* https://www.flickr.com/photos/116750655@N05/12922189705
 
+Icons
+* https://thenounproject.com/search/?q=pro%20and%20cons&i=834053
+* https://thenounproject.com/search/?q=decision&i=763386
+
+Emojis by [getemoji.com](http://getemoji.com)
