@@ -8,7 +8,6 @@ Centralized applications are easy: your entire system lives in one physical loca
 Dealing with distribution is a must at Fastly, where our applications are deployed all over the world and must be highly performant and resilient. But there are some inherent challenges related to designing and building systems that scale. In this talk we’ll go over the key lessons we learned while building our [Image Optimization service](https://www.fastly.com/io). What worked, what didn’t, the tradeoffs we made, and what can you do as a systems engineer to learn from our experiences while building your own applications.
 
 ### Outline
-
 * Intro
 * Context setting
 * Hard things
@@ -18,6 +17,8 @@ Dealing with distribution is a must at Fastly, where our applications are deploy
   * Ensuring resilience
 * Conclusions
 
+### Thank you!
+Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: Tyler McMullen, Jed Denlea, Adam Thomason, Ian Fung, Joao Taveira, Ezekiel Templin, Ashok Lalwani, Matt Whiteley, Kyle Kingsbury, Peter Bourgon, Camille Fournier, Caitie McCaffrey, Elaine Greenberg, and Greg Bako.
 
 ### References
 * [Kyle Kingsbury's An introduction to distributed systems class notes](https://github.com/aphyr/distsys-class)
@@ -35,8 +36,4 @@ Dealing with distribution is a must at Fastly, where our applications are deploy
 * [Fastly Imageopto Demo](https://www.fastly.com/io/)
 * [facepug.io](http://http://facepug.io/)
 * [ICC profiles](https://en.wikipedia.org/wiki/ICC_profile)
-
 * [Pug reverse sneezing](https://www.youtube.com/watch?v=nIePT1-6HWk)
-
-### Thank you!
-Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: Tyler McMullen, Jed Denlea, Adam Thomason, Ian Fung, Joao Taveira, Ezekiel Templin, Ashok Lalwani, Matt Whiteley, Kyle Kingsbury, Peter Bourgon, Camille Fournier, Caitie McCaffrey, Elaine Greenberg, and Greg Bako.
