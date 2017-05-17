@@ -32,6 +32,7 @@ Thank you to everyonw who helped with feedback, resources, and advice for this t
 * [Clients are Jerks by Caitie McCaffrey](https://caitiem.com/2015/06/23/clients-are-jerks-aka-how-halo-4-dosed-the-services-at-launch-how-we-survived/)
 * [Matt Ranney's Design for failure](https://www.youtube.com/watch?v=nuiLcWE8sPA)
 * [Composability](https://en.wikipedia.org/wiki/Composability)
+* [HTTP ETag](https://en.wikipedia.org/wiki/HTTP_ETag)
 * [Fastly Shielding](https://docs.fastly.com/guides/performance-tuning/shielding)
 * [Fastly ImageOpto API Docs](https://docs.fastly.com/api/imageopto/)
 * [Fastly Imageopto Demo](https://www.fastly.com/io/)
