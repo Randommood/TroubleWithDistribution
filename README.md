@@ -1,6 +1,6 @@
 # The Trouble with Distribution (and pugs)
 
-Accompanying repository for The trouble with distribution talk given at [J on the Beach]() 2017. Feel free to open any issues for questions and/or to say hi :)
+Accompanying repository for The trouble with distribution talk given at [J on the Beach](http://jonthebeach.com/) 2017. Feel free to open any issues for questions and/or to say hi :)
 
 ### Abstract
 Centralized applications are easy: your entire system lives in one physical location and you can reason about, vertically scale, and manage your system with minimal friction. Unfortunately, applications aren’t built this way anymore. Our systems are distributed, have external dependencies, and may even have to be geographically redundant. 
