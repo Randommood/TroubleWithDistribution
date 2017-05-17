@@ -18,7 +18,7 @@ Dealing with distribution is a must at Fastly, where our applications are deploy
 * Conclusions
 
 ### Thank you!
-Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: Tyler McMullen, Jed Denlea, Adam Thomason, Ian Fung, Joao Taveira, Ezekiel Templin, Ashok Lalwani, Matt Whiteley, Kyle Kingsbury, Peter Bourgon, Camille Fournier, Caitie McCaffrey, Elaine Greenberg, and Greg Bako.
+Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: Tyler McMullen, Jed Denlea, Adam Thomason, Ian Fung, Joao Taveira, Ezekiel Templin, Ashok Lalwani, Matt Whiteley, Kyle Kingsbury, Peter Bourgon, Camille Fournier, Caitie McCaffrey, Lorenzo Saino, Elaine Greenberg, and Greg Bako.
 
 ### References
 * [Kyle Kingsbury's An introduction to distributed systems class notes](https://github.com/aphyr/distsys-class)
