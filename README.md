@@ -34,6 +34,7 @@ Thank you to everyonw who helped with feedback, resources, and advice for this t
 * [Fastly Shielding](https://docs.fastly.com/guides/performance-tuning/shielding)
 * [Fastly ImageOpto API Docs](https://docs.fastly.com/api/imageopto/)
 * [Fastly Imageopto Demo](https://www.fastly.com/io/)
+* [Dynamic Servers](https://docs.fastly.com/api/dynamicservers)
 * [facepug.io](http://http://facepug.io/)
 * [ICC profiles](https://en.wikipedia.org/wiki/ICC_profile)
 * [Pug reverse sneezing](https://www.youtube.com/watch?v=nIePT1-6HWk)
